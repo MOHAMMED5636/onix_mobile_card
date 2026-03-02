@@ -9,8 +9,8 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: 'ONIX GROUP | We\'ve Moved',
-  description: 'We\'ve moved to a new home online! Visit us at onixgroup.ae',
+  title: 'ONIX GROUP | ONIX_MOBILE CARD',
+  description: 'ONIX Group — your hub for company links, profile, Instagram, WhatsApp and location.',
 }
 
 export default function RootLayout({

@@ -1,4 +1,4 @@
-                                                                  import Image from 'next/image'
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -103,7 +103,12 @@ export default function Home() {
               <span className="mobile-links-list__label">Website</span>
               <span className="mobile-links-list__chevron">›</span>
             </a>
-            <a href="https://www.onixgroup.ae/#about" className="mobile-links-list__item">
+            <a
+              href="/assets/company-profile.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mobile-links-list__item"
+            >
               <span className="mobile-links-list__icon mobile-links-list__icon--red">🏢</span>
               <span className="mobile-links-list__label">Company Profile</span>
               <span className="mobile-links-list__chevron">›</span>
