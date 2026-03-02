@@ -134,7 +134,7 @@ export default function Home() {
               <span className="mobile-links-list__chevron">›</span>
             </a>
             <a
-              href="https://www.google.com/maps/place/Onix+engineering+consultancy/"
+              href="https://www.google.com/maps/place/Onix+engineering+consultancy/@25.1763494,55.2421577,17z/data=!3m1!4b1!4m6!3m5!1s0x3e5f6950cab81057:0x64e84a568d8bd8e1!8m2!3d25.1763446!4d55.2447326!16s%2Fg%2F11vytgw0z5?entry=ttu"
               target="_blank"
               rel="noopener noreferrer"
               className="mobile-links-list__item"
